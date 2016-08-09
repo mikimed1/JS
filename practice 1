@@ -1,0 +1,4 @@
+var x="3";
+alert(x);
+x="miki";
+alert(x);
